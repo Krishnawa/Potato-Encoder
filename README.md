@@ -1,0 +1,1 @@
+This an Arduino based Rotary encoder library
